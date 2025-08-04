@@ -84,7 +84,7 @@ Files Included
 ---
 
  Submission
-- **GitHub Repository:(https://github.com/HariHaran2112003/task1-network-scan.git)]
+- GitHub Repository:(https://github.com/HariHaran2112003/task1-network-scan.git)]
 - Submission Form: [https://forms.gle/8Gm83s53KbyXs3Ne9](https://forms.gle/8Gm83s53KbyXs3Ne9)
 
 ---
